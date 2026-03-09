@@ -63,6 +63,13 @@ The trade-offs involved in visual design (trend lines vs bubbles size)
 
 This project demonstrates my ability to combine economic reasoning, data modeling, and visualization design to communicate macroeconomic insights effectively. 
 
+# Screenshots
+<img width="1904" height="871" alt="Screenshot 2026-03-09 125920" src="https://github.com/user-attachments/assets/029d342f-74b0-44ae-afd0-9d725ad278e8" />
 
+<img width="1910" height="859" alt="Screenshot 2026-03-09 125934" src="https://github.com/user-attachments/assets/6be44d13-bf5c-4534-a473-20cf838f1e23" />
+
+<img width="1907" height="870" alt="Screenshot 2026-03-09 125949" src="https://github.com/user-attachments/assets/9af0db8e-806c-418e-9074-11bbbb0e74fb" />
+
+<img width="1910" height="869" alt="Screenshot 2026-03-09 130005" src="https://github.com/user-attachments/assets/1361a414-5094-4104-a7ea-c1e6153a230a" />
 
 
